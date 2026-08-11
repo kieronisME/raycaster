@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.12.1)
+set(CMAKE_BUILD_TYPE Debug)
+project(castingMyRays)
+add_executable(castingMyRays main.c)
+
+target_include_directories(castingMyRays PRIVATE
+ "${CMAKE_CURRENT_SOURCE_DIR}/dependencies"
+)
+
+target_link_libraries(castingMyRays
+    "${CMAKE_CURRENT_SOURCE_DIR}/dependencies/GLUT/GL/libfreeglut.dll"
+    opengl32 
+)

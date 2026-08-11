@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Kiero/Desktop/Things im doing/raycaster fr/build",
+  "command": "C:\\Users\\Kiero\\Desktop\\C++\\Cworks\\MSYS\\msys\\ucrt64\\bin\\gcc.exe  @CMakeFiles\\castingMyRays.dir\\includes_C.rsp -g -o CMakeFiles\\castingMyRays.dir\\main.c.obj -c \"C:\\Users\\Kiero\\Desktop\\Things im doing\\raycaster fr\\main.c\"",
+  "file": "C:/Users/Kiero/Desktop/Things im doing/raycaster fr/main.c",
+  "output": "CMakeFiles/castingMyRays.dir/main.c.obj"
+}
+]
