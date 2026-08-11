@@ -10,4 +10,5 @@ target_include_directories(castingMyRays PRIVATE
 target_link_libraries(castingMyRays
     "${CMAKE_CURRENT_SOURCE_DIR}/dependencies/GLUT/GL/libfreeglut.dll"
     opengl32 
+    glu32
 )
