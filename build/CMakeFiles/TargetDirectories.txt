@@ -1,3 +1,0 @@
-C:/Users/Kiero/Desktop/Things im doing/raycaster fr/build/CMakeFiles/castingMyRays.dir
-C:/Users/Kiero/Desktop/Things im doing/raycaster fr/build/CMakeFiles/edit_cache.dir
-C:/Users/Kiero/Desktop/Things im doing/raycaster fr/build/CMakeFiles/rebuild_cache.dir

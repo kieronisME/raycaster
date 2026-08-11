@@ -1,1 +1,0 @@
- "C:/Users/Kiero/Desktop/Things im doing/raycaster fr/dependencies/GLUT/GL/libfreeglut.dll" -lopengl32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

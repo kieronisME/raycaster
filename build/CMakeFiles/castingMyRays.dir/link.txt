@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\castingMyRays.dir/objects.a
-C:\Users\Kiero\Desktop\C++\Cworks\MSYS\msys\ucrt64\bin\ar.exe qc CMakeFiles\castingMyRays.dir/objects.a @CMakeFiles\castingMyRays.dir\objects1.rsp
-C:\Users\Kiero\Desktop\C++\Cworks\MSYS\msys\ucrt64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\castingMyRays.dir/objects.a -Wl,--no-whole-archive -o castingMyRays.exe -Wl,--out-implib,libcastingMyRays.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\castingMyRays.dir\linkLibs.rsp
